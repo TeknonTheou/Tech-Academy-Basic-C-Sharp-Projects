@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\ConsoleApplication",
+    "\\ConsoleApplication\\ConsoleApplication"
   ],
-  "SelectedNode": "\\Acme_Accounting.sln",
+  "SelectedNode": "\\ConsoleApplication\\ConsoleApplication\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
