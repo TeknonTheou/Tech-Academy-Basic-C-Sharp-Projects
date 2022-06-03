@@ -1,0 +1,14 @@
+C:\Users\Tekno\source\repos\ConsoleApplication\ConsoleApplication\bin\Debug\ConsoleApplication.exe.config
+C:\Users\Tekno\source\repos\ConsoleApplication\ConsoleApplication\bin\Debug\ConsoleApplication.exe
+C:\Users\Tekno\source\repos\ConsoleApplication\ConsoleApplication\bin\Debug\ConsoleApplication.pdb
+C:\Users\Tekno\source\repos\ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.csproj.AssemblyReference.cache
+C:\Users\Tekno\source\repos\ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.csproj.CoreCompileInputs.cache
+C:\Users\Tekno\source\repos\ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.exe
+C:\Users\Tekno\source\repos\ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.pdb
+C:\Users\Tekno\Source\Repos\Tech-Academy-Basic-C-Sharp-Projects\ConsoleApplication\ConsoleApplication\bin\Debug\ConsoleApplication.exe.config
+C:\Users\Tekno\Source\Repos\Tech-Academy-Basic-C-Sharp-Projects\ConsoleApplication\ConsoleApplication\bin\Debug\ConsoleApplication.exe
+C:\Users\Tekno\Source\Repos\Tech-Academy-Basic-C-Sharp-Projects\ConsoleApplication\ConsoleApplication\bin\Debug\ConsoleApplication.pdb
+C:\Users\Tekno\Source\Repos\Tech-Academy-Basic-C-Sharp-Projects\ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.csproj.AssemblyReference.cache
+C:\Users\Tekno\Source\Repos\Tech-Academy-Basic-C-Sharp-Projects\ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.csproj.CoreCompileInputs.cache
+C:\Users\Tekno\Source\Repos\Tech-Academy-Basic-C-Sharp-Projects\ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.exe
+C:\Users\Tekno\Source\Repos\Tech-Academy-Basic-C-Sharp-Projects\ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.pdb
