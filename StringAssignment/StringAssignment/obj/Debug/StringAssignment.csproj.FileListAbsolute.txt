@@ -1,0 +1,14 @@
+C:\Users\Tekno\source\repos\StringAssignment\StringAssignment\bin\Debug\StringAssignment.exe.config
+C:\Users\Tekno\source\repos\StringAssignment\StringAssignment\bin\Debug\StringAssignment.exe
+C:\Users\Tekno\source\repos\StringAssignment\StringAssignment\bin\Debug\StringAssignment.pdb
+C:\Users\Tekno\source\repos\StringAssignment\StringAssignment\obj\Debug\StringAssignment.csproj.AssemblyReference.cache
+C:\Users\Tekno\source\repos\StringAssignment\StringAssignment\obj\Debug\StringAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Tekno\source\repos\StringAssignment\StringAssignment\obj\Debug\StringAssignment.exe
+C:\Users\Tekno\source\repos\StringAssignment\StringAssignment\obj\Debug\StringAssignment.pdb
+C:\Users\Tekno\source\repos\Tech-Academy-Basic-C-Sharp-Projects\StringAssignment\StringAssignment\bin\Debug\StringAssignment.exe.config
+C:\Users\Tekno\source\repos\Tech-Academy-Basic-C-Sharp-Projects\StringAssignment\StringAssignment\bin\Debug\StringAssignment.exe
+C:\Users\Tekno\source\repos\Tech-Academy-Basic-C-Sharp-Projects\StringAssignment\StringAssignment\bin\Debug\StringAssignment.pdb
+C:\Users\Tekno\source\repos\Tech-Academy-Basic-C-Sharp-Projects\StringAssignment\StringAssignment\obj\Debug\StringAssignment.csproj.AssemblyReference.cache
+C:\Users\Tekno\source\repos\Tech-Academy-Basic-C-Sharp-Projects\StringAssignment\StringAssignment\obj\Debug\StringAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Tekno\source\repos\Tech-Academy-Basic-C-Sharp-Projects\StringAssignment\StringAssignment\obj\Debug\StringAssignment.exe
+C:\Users\Tekno\source\repos\Tech-Academy-Basic-C-Sharp-Projects\StringAssignment\StringAssignment\obj\Debug\StringAssignment.pdb
