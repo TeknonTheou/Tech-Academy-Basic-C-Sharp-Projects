@@ -1,0 +1,7 @@
+C:\Users\Tekno\source\repos\VoidMethod\VoidMethod\obj\Debug\VoidMethod.csproj.AssemblyReference.cache
+C:\Users\Tekno\source\repos\VoidMethod\VoidMethod\obj\Debug\VoidMethod.csproj.CoreCompileInputs.cache
+C:\Users\Tekno\source\repos\VoidMethod\VoidMethod\bin\Debug\VoidMethod.exe.config
+C:\Users\Tekno\source\repos\VoidMethod\VoidMethod\bin\Debug\VoidMethod.exe
+C:\Users\Tekno\source\repos\VoidMethod\VoidMethod\bin\Debug\VoidMethod.pdb
+C:\Users\Tekno\source\repos\VoidMethod\VoidMethod\obj\Debug\VoidMethod.exe
+C:\Users\Tekno\source\repos\VoidMethod\VoidMethod\obj\Debug\VoidMethod.pdb
