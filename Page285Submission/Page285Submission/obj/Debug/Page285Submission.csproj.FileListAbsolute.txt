@@ -1,0 +1,7 @@
+C:\Users\Tekno\source\repos\Page285Submission\Page285Submission\bin\Debug\Page285Submission.exe.config
+C:\Users\Tekno\source\repos\Page285Submission\Page285Submission\bin\Debug\Page285Submission.exe
+C:\Users\Tekno\source\repos\Page285Submission\Page285Submission\bin\Debug\Page285Submission.pdb
+C:\Users\Tekno\source\repos\Page285Submission\Page285Submission\obj\Debug\Page285Submission.csproj.AssemblyReference.cache
+C:\Users\Tekno\source\repos\Page285Submission\Page285Submission\obj\Debug\Page285Submission.csproj.CoreCompileInputs.cache
+C:\Users\Tekno\source\repos\Page285Submission\Page285Submission\obj\Debug\Page285Submission.exe
+C:\Users\Tekno\source\repos\Page285Submission\Page285Submission\obj\Debug\Page285Submission.pdb
