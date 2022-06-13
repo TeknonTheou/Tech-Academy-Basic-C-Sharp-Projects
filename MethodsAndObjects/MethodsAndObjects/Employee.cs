@@ -10,7 +10,7 @@ namespace MethodsAndObjects
     {
         public int ID { get; set; }
 
-        public static bool operator ==(Employee employee1, Employee employee2)//checks IDs to determine if same or different
+        public static bool operator ==(Employee employee1, Employee employee2)//add operator that checks IDs to determine if same or different
         {
             if (employee1.ID == employee2.ID)
             {
