@@ -17,7 +17,7 @@ namespace MethodsAndObjects
             sample.SayName();//run 'SayName' method on first employee
             different.SayName();//run 'SayName' method on second employee
 
-            Console.WriteLine("Are the employee IDs the same? {0}.", sample == different);//Employee class takes ID separately from "person" class, entered method to verify ID is same/different
+            Console.WriteLine("Employee IDs are the same? {0}.", sample == different);//Employee class takes ID separately from "person" class, entered method to verify ID is same/different
 
 
             Console.ReadLine();
