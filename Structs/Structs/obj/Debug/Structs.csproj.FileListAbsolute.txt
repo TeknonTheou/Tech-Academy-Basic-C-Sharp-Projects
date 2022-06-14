@@ -1,0 +1,6 @@
+C:\Users\Tekno\source\repos\Structs\Structs\bin\Debug\Structs.exe.config
+C:\Users\Tekno\source\repos\Structs\Structs\bin\Debug\Structs.exe
+C:\Users\Tekno\source\repos\Structs\Structs\bin\Debug\Structs.pdb
+C:\Users\Tekno\source\repos\Structs\Structs\obj\Debug\Structs.csproj.CoreCompileInputs.cache
+C:\Users\Tekno\source\repos\Structs\Structs\obj\Debug\Structs.exe
+C:\Users\Tekno\source\repos\Structs\Structs\obj\Debug\Structs.pdb

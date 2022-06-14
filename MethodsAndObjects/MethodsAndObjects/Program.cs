@@ -12,7 +12,7 @@ namespace MethodsAndObjects
         {
             Employee sample = new Employee() { FirstName = "Sample", LastName = "Student", ID = 1 };//create instance of Employee Object
 
-            Employee different = new Employee() { FirstName = "William", LastName = "McMillen", ID = 2 };//create a second instance (to demonstrate ID info being taken in)
+            Employee different = new Employee() { FirstName = "Sample", LastName = "Student", ID = 2 };//create a second instance (to demonstrate ID info being taken in)
 
             sample.SayName();//run 'SayName' method on first employee
             different.SayName();//run 'SayName' method on second employee
