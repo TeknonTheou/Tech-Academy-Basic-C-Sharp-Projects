@@ -29,15 +29,15 @@ namespace CarInsurance.Controllers
                 var quote = new Insuree();
 
 
-                if (DateTime.Now - dateOfBirth < TimeSpan.FromDays(365 * 25))// if user is under 25
-                {
-                    quoteAmount += 25;
-                }
-                if (DateTime.Now - dateOfBirth < TimeSpan.FromDays(365 * 18))// if user is under 18
+                if (DateTime.Now - dateOfBirth < TimeSpan.FromDays(365 * 19))// if 18 or under
                 {
                     quoteAmount += 100;
                 }
-                else if (DateTime.Now - dateOfBirth > TimeSpan.FromDays(365 * 100))// if user is over 100
+                else if (DateTime.Now - dateOfBirth <= TimeSpan.FromDays(365 * 25))// if user is under 25
+                {
+                    quoteAmount += 50;
+                }
+                else // if user is over 25
                 {
                     quoteAmount += 25;
                 }
