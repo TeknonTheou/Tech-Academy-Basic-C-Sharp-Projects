@@ -80,3 +80,4 @@ C:\Users\Tekno\source\repos\Tech-Academy-Basic-C-Sharp-Projects\NewsletterAppMVC
 C:\Users\Tekno\source\repos\Tech-Academy-Basic-C-Sharp-Projects\NewsletterAppMVC\NewsletterAppMVC\bin\EntityFramework.SqlServer.dll
 C:\Users\Tekno\source\repos\Tech-Academy-Basic-C-Sharp-Projects\NewsletterAppMVC\NewsletterAppMVC\bin\EntityFramework.xml
 C:\Users\Tekno\source\repos\Tech-Academy-Basic-C-Sharp-Projects\NewsletterAppMVC\NewsletterAppMVC\bin\EntityFramework.SqlServer.xml
+C:\Users\Tekno\source\repos\Tech-Academy-Basic-C-Sharp-Projects\NewsletterAppMVC\NewsletterAppMVC\obj\Debug\NewsletterAppMVC.csproj.AssemblyReference.cache
